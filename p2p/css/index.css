@@ -1,0 +1,126 @@
+body {
+  font: 14px/1.5 "Verdana", "微软雅黑", YaHei, tahoma, arial, Hiragino Sans GB, "宋体";
+}
+#el-topbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+#el-topbar a {
+  color: #fff;
+  font-family: 微软雅黑;
+}
+#el-topbar i {
+  font-size: 24px;
+}
+#mian {
+  margin-bottom: 0;
+}
+#mian .container ul {
+  padding-left: 20px;
+}
+#mian .container ul li a {
+  display: block;
+  min-width: 80px;
+  height: 80px;
+  text-align: center;
+  line-height: 60px;
+  font-family: 微软雅黑;
+  font-size: 16px;
+}
+#mian .container ul li :hover {
+  background-color: #eee;
+  color: #2aabd2;
+}
+#carousel-banner-generi {
+  width: 1328px;
+  margin: 0 auto;
+  margin-top: 8px;
+}
+.el-feature {
+  overflow: hidden;
+  height: 80px;
+  margin-top: 20px;
+}
+.el-feature dl {
+  float: left;
+  width: 33%;
+  padding-left: 80px;
+}
+.el-feature .el-feature-item01 {
+  background-image: url("../images/feature01.png");
+  background-repeat: no-repeat;
+}
+.el-feature .el-feature-item02 {
+  background-image: url("../images/feature02.png");
+  background-repeat: no-repeat;
+}
+.el-feature .el-feature-item03 {
+  background-image: url("../images/feature02.png");
+  background-repeat: no-repeat;
+}
+.panel-title {
+  font-size: 24px;
+  color: #2e8ece;
+  font-weight: bold;
+  overflow: hidden;
+  border-bottom: 1px solid #e8e8e8;
+  margin: 10px 0px 16px;
+  font-family: 微软雅黑;
+}
+.panel-title .pull-left {
+  border-bottom: 3px solid;
+}
+.table tr th {
+  color: #999999;
+  font-family: 微软雅黑;
+}
+.table tr td {
+  font-family: 微软雅黑;
+  font-size: 16px;
+}
+.el-panel {
+  margin-bottom: 40px;
+  font-family: 微软雅黑;
+}
+.el-panel .panel-title {
+  font-size: 24px;
+  color: #2e8ece;
+  font-weight: bold;
+  overflow: hidden;
+  border-bottom: 1px solid #e8e8e8;
+  margin: 10px 0px 16px;
+  font-family: 微软雅黑;
+}
+.el-panel .panel-title .pull-left {
+  border-bottom: 3px solid;
+}
+.el-panel .panel {
+  overflow: hidden;
+  margin-bottom: 0;
+  height: 40px;
+  line-height: 40px;
+  border: 0;
+  border-bottom: 1px solid #eee;
+}
+.el-footer {
+  background-color: #f8f8f8;
+  margin: 20px 0px 20px 0px;
+  padding-top: 30px;
+}
+.el-footer img {
+  max-width: 100%;
+}
+.el-page-title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 20px;
+  color: #337ab7;
+}
+.el-navbar {
+  margin-bottom: 5px;
+}
+.el-navbar .navbar-header {
+  padding-top: 25px;
+  padding-bottom: 10px;
+  margin-right: 20px;
+}
