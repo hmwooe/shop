@@ -13,7 +13,7 @@ body {
   font-size: 24px;
 }
 #mian {
-  margin-bottom: 0;
+  margin-bottom: 5px;
 }
 #mian .container ul {
   padding-left: 20px;
@@ -123,4 +123,23 @@ body {
   padding-top: 25px;
   padding-bottom: 10px;
   margin-right: 20px;
+}
+.el-current-user {
+  color: #00a7ff;
+  font-weight: bold;
+  text-decoration: none;
+}
+.panel-body .row {
+  margin: 10px 2px;
+}
+.panel-body .btns {
+  text-align: center;
+  width: 400px;
+  margin: 30px auto 0px auto;
+}
+#searchForm .form-box {
+  margin: 20px 0;
+}
+#searchForm .form-box .btn-group {
+  margin-left: 20px;
 }
